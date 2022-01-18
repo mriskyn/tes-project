@@ -1,1 +1,3 @@
 print('success')
+
+print('fail')
